@@ -52,9 +52,3 @@ For this project, you will need the following components:
 
 Contributions to improve or extend this project are welcome. Fork the repository, make your changes, and submit a pull request.
 
-## Demo
-<video width="320" height="240" controls>
-  <source src="./Demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
